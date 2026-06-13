@@ -1,45 +1,120 @@
-# Portfolio Project - Step 1
+# LinkedIn Organic Content Strategy for B2B SaaS
 
-## Tools Installed
-- **Cursor IDE**: Latest version
-- **Claude Code Extension**: Activated natively via Cursor's built-in Agent feature.
-- **Codex Extension**: Activated natively via Cursor's built-in Agent feature.
-- **Git**: Latest version
+## Project Overview
 
-## Steps Completed
-1. Installed Cursor IDE
-2. Explored the Cursor Marketplace and Agent system
-3. Installed Claude Code and Codex agents
-4. Created a GitHub account
-5. Created a public GitHub repository
-6. Cloned the repository from GitHub to the local machine storage.
-7. Opened the repository in Cursor
-8. Edited the README.md file
-9. Learned how to manage files and documentation in GitHub
+This research project analyzes how leading B2B SaaS marketers, founders, and content practitioners use LinkedIn organic content to build brand awareness, generate demand, and influence revenue growth.
 
-## Challenges & Solutions
+The goal is to identify recurring patterns, frameworks, and best practices that can later be turned into a practical LinkedIn growth playbook for B2B SaaS companies.
 
-### 1. Claude Code & Codex Extension UI Changes in Cursor
-- **Issue:** When searching for "Claude Code" and "Codex" under Extensions/Marketplace, the extensions could not be found.
-- **Solution:** I researched this issue through community discussions, which suggested that the latest versions required manual external `.vsix` file installations. I re-watched tutorials on YouTube and explored the updated Cursor UI. I discovered that the functionalities of Claude Code and Codex have now been natively integrated into the **Agent** menu rather than being separate standalone marketplace extensions or requiring external `.vsix` files as discussed in the community. I successfully accessed and enabled the Claude Code & Codex extensions from there.
+---
 
-### 2. Git Command Not Recognized Error (`CommandNotFoundException`)
-- **Issue:** When attempting to clone the repository within the Cursor terminal, the system threw an error stating that the `git` command was not recognized by Windows.
-- **Solution:** I identified that Git was not yet installed on my local machine. I downloaded the Git installer from the official website (`git-scm.com`), completed the installation, and restarted Cursor IDE to ensure the newly updated environment path was properly recognized by the terminal.
+## Research Objectives
 
-## 3. What I Learned
+This project aims to answer the following questions:
 
-- Learned how to use Cursor IDE and understand its latest Agent-based interface.
-- Learned the basic workflow of Git and GitHub, including repository creation, cloning, committing, and pushing changes.
-- Improved my problem-solving skills by researching documentation, community discussions, and tutorial videos.
-- Learned the difference between traditional extensions and integrated AI agents in modern development tools.
-- Learned how to document technical processes and troubleshooting steps clearly in a README file.
+1. What types of LinkedIn content perform best for B2B SaaS?
+2. How do successful practitioners structure their content?
+3. How frequently do they publish?
+4. What role does founder-led content play in growth?
+5. How do they connect LinkedIn activity to business outcomes?
 
-## 4. Repository Purpose
+---
 
-This repository was created as part of a portfolio setup project to demonstrate my ability to:
-- Set up modern AI-assisted development tools
-- Use GitHub for repository management
-- Follow technical instructions independently
-- Research and solve technical issues
-- Document workflows and troubleshooting processes professionally
+## Selected Experts
+
+The following experts were selected because they actively practice and teach B2B SaaS growth through LinkedIn, content marketing, demand generation, sales, and audience building.
+
+| Expert | Area of Expertise |
+|----------|----------|
+| Richard van der Blom | LinkedIn algorithm & strategy |
+| Lara Acosta | Personal branding & LinkedIn growth |
+| Adam Robinson | B2B SaaS demand generation |
+| Chris Walker | Demand generation |
+| Devin Reed | B2B content marketing |
+| Kyle Coleman | Revenue & GTM strategy |
+| Morgan J. Ingram | Sales & social selling |
+| Oren Greenberg | B2B growth marketing |
+| Justin Welsh | LinkedIn audience building |
+| Joe Gannon | Founder-led growth |
+
+---
+
+## Data Sources Collected
+
+### LinkedIn Posts
+
+Recent LinkedIn content collected from each expert to identify:
+
+- Content structure
+- Posting style
+- Engagement strategies
+- Topic selection
+- Calls-to-action
+
+### YouTube Transcripts
+
+Long-form discussions, interviews, and educational videos were collected to understand:
+
+- Strategic thinking
+- Content frameworks
+- Growth methodologies
+- LinkedIn best practices
+
+---
+
+## Repository Structure
+
+```text
+research/
+│
+├── sources.md
+│
+├── linkedin-posts/
+│   ├── expert-1.md
+│   ├── expert-2.md
+│   └── ...
+│
+├── youtube-transcripts/
+│   ├── transcript-1.md
+│   ├── transcript-2.md
+│   └── ...
+│
+└── other/
+
+```
+
+---
+
+## Collection Methods
+
+Content was collected using a combination of:
+
+- Cursor IDE
+- Claude Code
+- Codex
+- Chat GPT
+- Claude Web
+
+---
+
+## Why These Experts?
+
+The focus was on practitioners who actively build audiences, generate demand, and influence pipeline rather than purely theoretical marketers.
+
+Selection criteria included:
+
+- Demonstrated success in B2B SaaS
+- Consistent content production
+- Recognized industry influence
+- Practical and repeatable frameworks
+- Recent and active content
+
+---
+
+## Expected Outcome
+
+The research repository is intended to support the development of a future:
+
+**LinkedIn Organic Growth Playbook for B2B SaaS**
+
+based on evidence collected from leading practitioners rather than assumptions or generic marketing advice.
